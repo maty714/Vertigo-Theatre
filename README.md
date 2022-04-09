@@ -25,4 +25,4 @@ Showcases the database that was built using code first.
 
 
 **Style Page**
-Showcases the page view for the create and edit pages using CSS.
+Showcases the page view for the create and edit CRUD pages using CSS.
