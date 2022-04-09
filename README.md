@@ -16,4 +16,4 @@ Showcases a method that was created to limit text shown in a string input.
 
 **Model**
 Showcases the database that was built using code first.
-1. Includes all CRUD pages created based off of that model.
+1. Includes all CRUD pages created based off that model.
