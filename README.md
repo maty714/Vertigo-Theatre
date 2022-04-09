@@ -12,3 +12,8 @@ Showcases a method that was implemented to allow a photo to be stored as a byte 
 **Text Helper**
 Showcases a method that was created to limit text shown in a string input.
 1. Includes an ouput image which shows what "Hello World" would look like if it was limited by a chosen amount of character
+
+
+**Model**
+Showcases the database that was built using code first.
+1. Includes all CRUD pages created based off of that model.
